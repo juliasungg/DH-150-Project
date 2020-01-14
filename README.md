@@ -52,20 +52,40 @@ The second website I will be evaluating is [Allkpop](https://www.allkpop.com/)
 
 <img width="1254" alt="Screen Shot 2020-01-13 at 9 55 46 PM" src="https://user-images.githubusercontent.com/55997881/72318936-8bddab80-3652-11ea-9f1e-3367c620bb86.png">
 
+Unlike Koreabook, Allkpop has an additional shopping website, [Shop Allkpop](https://shop.allkpop.com/) where users can buy Korean-culture related merchandise, including fan goods, stationary and apparel.
 
+<img width="1062" alt="Screen Shot 2020-01-13 at 10 51 43 PM" src="https://user-images.githubusercontent.com/55997881/72320878-68692f80-3657-11ea-8f92-9839dd6e8b73.png">
+
+<img width="1262" alt="Screen Shot 2020-01-13 at 10 47 34 PM" src="https://user-images.githubusercontent.com/55997881/72320536-be89a300-3656-11ea-81d9-bf540191b996.png"> 
+
+My heuristic evaluation will be based off of observations of both websites.
 
 **1: Visibility of system status**
+
+Unlike Koreaboo, Allkpop has sections for Best, New and Rising News, making it visible to the users the status of the articles. In addition, they show the status of the page you are on, by highlighting the page you are on in a standout color, red. They also mark the article's rank on each page, with big numbers. 
+
+Overall, I think they did a good job at showing the visibility of the system status.
+
+<img width="546" alt="Screen Shot 2020-01-13 at 11 01 35 PM" src="https://user-images.githubusercontent.com/55997881/72321414-afa3f000-3658-11ea-86a7-09c1cd1b3e6f.png">
+
+<img width="179" alt="Screen Shot 2020-01-13 at 11 03 00 PM" src="https://user-images.githubusercontent.com/55997881/72321480-dc580780-3658-11ea-85e9-68ddfc6a3de9.png">
 
 
 **2: Match between system and the real world**
 
+There is a slight confusion between the filter/sort features , Feed and Sort. 
+
 **3: User control and freedom**
 
 **4: Consistency and standards**
+repetitive buttons, rather instill a filter to filter best news by date or comments or most viewed etc.
+i dont get why new will be filtered by any other 
 
 **5: Error prevention**
+Log into comment better as a pop up message.
 
 **6: Recognition rather than recall**
+repetitive 
 
 **7: Flexibility and efficiency of use**
 
