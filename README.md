@@ -1,6 +1,7 @@
 # DH-150-Project
 
 **1: Visibility of system status**
+![GitHub Logo](/images/logo.png)
 
 **2: Match between system and the real world**
 
