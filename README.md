@@ -82,10 +82,16 @@ repetitive buttons, rather instill a filter to filter best news by date or comme
 i dont get why new will be filtered by any other 
 
 **5: Error prevention**
-Log into comment better as a pop up message.
+Allkpop: When the user tries to comment on a post without logging in, the comment section is shaded light grey, with a reminder to "Log in to comment" in the bottom right. What would have been more intuitive and direct is if they put that exact text inside the greyed-out comment section to avoid confusion.
+
+<img width="867" alt="Screen Shot 2020-01-13 at 11 09 31 PM" src="https://user-images.githubusercontent.com/55997881/72321848-ca2a9900-3659-11ea-94cd-bc4e4495b913.png">
 
 **6: Recognition rather than recall**
 repetitive 
+recently viewed items on the shopping website
+Amazon (and many other ecommerce websites) shows users lists of items that they visited recently. These lists help users remember to finish a purchase that they may have started a few days ago. They promote recognition, because users don’t need to remember interesting information that they may have seen in the past or recall what that product might have been called.
+search history
+
 
 **7: Flexibility and efficiency of use**
 
