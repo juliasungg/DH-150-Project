@@ -9,32 +9,48 @@ In comparison to other websites that exist for the KPOP/Kdrama community, this p
 
 
 **1: Visibility of system status**
-There’s no indication of which news articles are most popular, or most recent.
+There’s no indication of which news articles are most popular, or most recent. Although the current page the user is on is bolded, it could be made more visible with a different accent/color.
+
+Severity: 2
 
 
 
 **2: Match between system and the real world**
 
-Koreaboo has four headers in their menu bar: Feed, News, Stories, Lists. At first glance, I am confused on the difference between the four options. Without the option to navigate down...
+Koreaboo has four headers in their menu bar: Feed, News, Stories, Lists. At first glance, I am confused on the difference between the four options. Without the option to see subsections underneath these headers, it is confusing what "Lists" refers to. After observing the content, a more fit title would be "Rankings" or "Opinions".
+
+Severity: 1
 
 **3: User control and freedom**
 
-To see more content, you have the option to click on “Read More” at the bottom of each page of content. However, there is no option to click on a  “Go Back” button to go back to the past page without using the back arrow on the internet browser. (counter intuitive bceause its located at the top left while we end at the bottom of the page)
+To see more content, you have the option to click on “Read More” at the bottom of each page of content. However, there is no option to click on a  “Previous” button to go back to the previous page without using the back arrow on the internet browser. (counter intuitive bceause its located at the top left while we end at the bottom of the page)
+
+Severity: 1
 
 **4: Consistency and standards**
 
-The way the articles are chronologically labeled vary. For articles up to a week, its labeled as “ x days ago”. After a week, the articles are tagged with the date, in the Month-Date-Year format.
+I found that 
 
 **5: Error prevention**
 
+
+
 **6: Recognition rather than recall**
+There is no 
 
 
 **7: Flexibility and efficiency of use**
 
-There is no search bar to search for topics that interests the user. There is also no further breakdown of topics underneath the four main menu headers, which deters efficiency since the user is not able to find the content he/she wants quickly and efficiently.
+I like that there is a Home tab for the most recent news and also a separate Discover page to search for content that the user is interested in. An improvement I would suggest is that 
+
+Severity: 3  
 
 **8: Aesthetic and minimalist design**
+
+Soompi: On the Discover page, the images for the categories are quite irrelevant to the categories themselves. They are all pictures of some korean celebrity, and there's no clear reason for using those images. A better alternative would be to discard the images completely, and keep the icons only.
+
+Severity: 2
+
 
 
 
@@ -43,7 +59,7 @@ There is no search bar to search for topics that interests the user. There is al
 
 **10: Help and documentation**
 
-There is no way to search 
+There is no way to ask for help on the app. Commonly, the help/faq section is found in the settings. However, this is not the case in this app.
 
 
 
@@ -77,7 +93,7 @@ Overall, I think they did a good job at showing the visibility of the system sta
 There is a slight confusion between the filter/sort features , Feed and Sort. 
 
 **3: User control and freedom**
-If I accidentally removed an item from my cart, there is no way to undo my action.
+Allkpop Shop: If I accidentally removed an item from my cart, there is no way to undo my action.
 
 **4: Consistency and standards**
 repetitive buttons, rather instill a filter to filter best news by date or comments or most viewed etc.
@@ -89,17 +105,16 @@ Allkpop: When the user tries to comment on a post without logging in, the commen
 <img width="867" alt="Screen Shot 2020-01-13 at 11 09 31 PM" src="https://user-images.githubusercontent.com/55997881/72321848-ca2a9900-3659-11ea-94cd-bc4e4495b913.png">
 
 **6: Recognition rather than recall**
-repetitive 
-recently viewed items on the shopping website
-Amazon (and many other ecommerce websites) shows users lists of items that they visited recently. These lists help users remember to finish a purchase that they may have started a few days ago. They promote recognition, because users don’t need to remember interesting information that they may have seen in the past or recall what that product might have been called.
-search history
 
-soompi: shows users lists of items that they bookmarked recently. These lists helprecognition, since users don't have to remember interesting content they have seen and can quickly pull up articles that they found interesting in the past.
+Allkpop Shop: Many ecommerce websites shows users lists of items that they searched/bought recently. This increases recognition, because users aren't forced to recall what they were looking for before, and almost encourages the user to finish a purchase.
+
 
 **7: Flexibility and efficiency of use**
-Shop Allkpop : The user is not able to see a preview of the items in their shopping cart without leaving the page. It would be more efficient for new shoppers, who are unsure of what they are looking for, to view the items in their carts while they are continuously browsing the page for more items.
+Shop Allkpop : The user is not able to see a preview of the items in their shopping cart without leaving the page. It would be more efficient for new shoppers, who are unsure of what they are looking for, to view the items in their carts while they are continuously browsing the page for more items. In addition, there is no way for the user to select which "Best Sellers" category they are interested in.
 
 **8: Aesthetic and minimalist design**
+
+The website design is pretty simple, with a minimal color palette that creates the rightemphasis
 
 **9: Help users recognize, diagnose, and recover from errors**
 
