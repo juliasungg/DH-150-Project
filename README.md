@@ -9,13 +9,21 @@ In comparison to other websites that exist for the KPOP/Kdrama community, this p
 
 
 **1: Visibility of system status**
+There’s no indication of which news articles are most popular, or most recent.
+
 
 
 **2: Match between system and the real world**
 
+Koreaboo has four headers in their menu bar: Feed, News, Stories, Lists. At first glance, I am confused on the difference between the four options. Without the option to navigate down...
+
 **3: User control and freedom**
 
+To see more content, you have the option to click on “Read More” at the bottom of each page of content. However, there is no option to click on a  “Go Back” button to go back to the past page without using the back arrow on the internet browser. (counter intuitive bceause its located at the top left while we end at the bottom of the page)
+
 **4: Consistency and standards**
+
+The way the articles are chronologically labeled vary. For articles up to a week, its labeled as “ x days ago”. After a week, the articles are tagged with the date, in the Month-Date-Year format.
 
 **5: Error prevention**
 
@@ -25,9 +33,12 @@ In comparison to other websites that exist for the KPOP/Kdrama community, this p
 
 **8: Aesthetic and minimalist design**
 
+
 **9: Help users recognize, diagnose, and recover from errors**
 
 **10: Help and documentation**
+
+There is no way to search 
 
 
 
