@@ -3,8 +3,9 @@ As someone who is an avid consumer of Korean media and a follower of Korean ente
 
 The first website I will be looking at is [Koreaboo](https://www.koreaboo.com/)
 
-In comparison to other websites that exist for the KPOP/Kdrama community, this particular website lacks personalization features and overall direction. Although the website name is creative and most widely adopted, the website does not match the theme the titles.
+<img width="1207" alt="Screen Shot 2020-01-13 at 9 55 34 PM" src="https://user-images.githubusercontent.com/55997881/72327747-8be7a680-3666-11ea-96e7-a0211bc59618.png">
 
+In comparison to other websites that exist for the KPOP/Kdrama community, this particular website lacks personalization features and overall content and direction. Thus, it was hard to evaluate some of the heuretics below. Although the website name is creative and most widely adopted, the website does not match the theme the titles. If i were to select this for my project, I would most likely be adding a lot of components to this website.
 
 **1: Visibility of system status**
 
@@ -35,29 +36,45 @@ Severity: 3
 
 **6: Recognition rather than recall**
 
+There is no search bar that stores the user's history of searches, and there's also no user account that a user can save articles of interest to them. This is not good for recognition, as the user will have to recall on his power content he has read on the website.
+
+Severity: 3
+
 
 
 **7: Flexibility and efficiency of use**
-I like that there is a Home tab for the most recent news and also a separate Discover page to search for content that the user is interested in. An improvement I would suggest is that
+
+Besides the main 4 tabs, there are no subcategories or sections that the user can select to read. The articles are not categorized or tagged, making it difficult for new users and old users alike to find personalized content that is interesting to them. 
 
 Severity: 3
 
 
 **8: Aesthetic and minimalist design**
 
+I think the color palette fits with the website name. I believe overall design is too simplistic, not allowing for the user to engage with the interface or content.
+
+Severity: 2
+
 
 
 **9: Help users recognize, diagnose, and recover from errors**
 
+This heuretic unfortunately does not apply to the website that I have chosen, as there are no actions the user can take that can result in error.
+
+
+Severity: 1
+
 
 
 **10: Help and documentation**
-There is nowhere that I can ask for help! There is also no documentation ofr 
+There is nowhere that I can ask for help! There is also no documentation or any contact information.
+
+Severity: 2
 
 
 
 ## Allkpop
-The second website I will be evaluating is [Allkpop] (https://www.allkpop.com/)
+The second website I will be evaluating is [Allkpop](https://www.allkpop.com)
 
 
 Unlike Koreaboo, Allkpop has an additional shopping website, Shop Allkpop where users can buy Korean-culture related merchandise, including fan goods, stationary and apparel.
@@ -90,7 +107,7 @@ If I accidentally removed an item from my cart, there is no way to undo my actio
 
 Severity: 1
 
-**4: Consistency and standards
+**4:Consistency and standards
 
 Like Heuretic #7, not being able to see a preview of the items in the shopping cart is breaking the standard in ecommerce sites, where one can quickly view the items in their shopping cart while remaining on the page. A user who frequently used ecommerce sites would expect to see this behavior.
 
@@ -98,7 +115,11 @@ Severity: 3
 
 
 **5: Error prevention**
+
 Allkpop: When the user tries to comment on a post without logging in, the comment section is shaded light grey, with a reminder to "Log in to comment" in the bottom right. What would have been more intuitive and direct is if they put that exact text inside the greyed-out comment section to avoid confusion.
+
+<img width="857" alt="Screen Shot 2020-01-14 at 1 05 04 AM" src="https://user-images.githubusercontent.com/55997881/72329628-f51ce900-3669-11ea-9a45-96340f1e64b6.png">
+
 
 **6: Recognition rather than recall**
 
