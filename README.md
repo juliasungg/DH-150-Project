@@ -46,6 +46,8 @@ There is no way to search
 
 
 
+## Allkpop
+The second website I will be evaluating is [Allkpop](https://www.allkpop.com/)
 
 
 <img width="1254" alt="Screen Shot 2020-01-13 at 9 55 46 PM" src="https://user-images.githubusercontent.com/55997881/72318936-8bddab80-3652-11ea-9f1e-3367c620bb86.png">
