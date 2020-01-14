@@ -29,6 +29,7 @@ The way the articles are chronologically labeled vary. For articles up to a week
 
 **6: Recognition rather than recall**
 
+
 **7: Flexibility and efficiency of use**
 
 There is no search bar to search for topics that interests the user. There is also no further breakdown of topics underneath the four main menu headers, which deters efficiency since the user is not able to find the content he/she wants quickly and efficiently.
@@ -76,6 +77,7 @@ Overall, I think they did a good job at showing the visibility of the system sta
 There is a slight confusion between the filter/sort features , Feed and Sort. 
 
 **3: User control and freedom**
+If I accidentally removed an item from my cart, there is no way to undo my action.
 
 **4: Consistency and standards**
 repetitive buttons, rather instill a filter to filter best news by date or comments or most viewed etc.
@@ -92,8 +94,10 @@ recently viewed items on the shopping website
 Amazon (and many other ecommerce websites) shows users lists of items that they visited recently. These lists help users remember to finish a purchase that they may have started a few days ago. They promote recognition, because users don’t need to remember interesting information that they may have seen in the past or recall what that product might have been called.
 search history
 
+soompi: shows users lists of items that they bookmarked recently. These lists helprecognition, since users don't have to remember interesting content they have seen and can quickly pull up articles that they found interesting in the past.
 
 **7: Flexibility and efficiency of use**
+Shop Allkpop : The user is not able to see a preview of the items in their shopping cart without leaving the page. It would be more efficient for new shoppers, who are unsure of what they are looking for, to view the items in their carts while they are continuously browsing the page for more items.
 
 **8: Aesthetic and minimalist design**
 
