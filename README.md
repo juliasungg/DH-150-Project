@@ -67,6 +67,7 @@ Severity: 1
 
 
 **10: Help and documentation**
+
 There is nowhere that I can ask for help! There is also no documentation or any contact information.
 
 Severity: 2
@@ -80,6 +81,8 @@ The second website I will be evaluating is [Allkpop](https://www.allkpop.com)
 Unlike Koreaboo, Allkpop has an additional shopping website, Shop Allkpop where users can buy Korean-culture related merchandise, including fan goods, stationary and apparel.
 
 My heuristic evaluation will be based off of observations of both Allkpop and ShopAllkpop since they can bet treated as one website.
+
+My initial evaluation of this website is that the overall strcuture of the website seemed okay. There are opportunities for user interaction, and the landing page seems like it has clear direction and very user-friendly.
 
 <img width="1062" alt="Screen Shot 2020-01-13 at 10 51 43 PM" src="https://user-images.githubusercontent.com/55997881/72320878-68692f80-3657-11ea-8f92-9839dd6e8b73.png">
 
