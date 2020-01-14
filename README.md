@@ -1,5 +1,5 @@
 # DH150 Assignment01: Heuristic Evaluation by Julia Sung
-As someone who is an avid consumer of Korean media and a follower of Korean entertainment news, I love to spend time throughout the day browsing the internet for the most recent news, updates and recaps of shows. I decided to look at two websites: Koreaboo and allkpop. 
+As someone who is an avid consumer of Korean media and a follower of Korean entertainment news, I love to spend time throughout the day browsing the internet for the most recent news, updates and recaps of shows. Although these websites aren't recommending or selling anything, the website still interacts with the user through content, ads and navigation. Good UI/UX design will have an effect on on the user's likelihood to revisit the website. I decided to look at two websites: Koreaboo and allkpop.  
 
 The first website I will be looking at is [Koreaboo](https://www.koreaboo.com/). 
 
@@ -31,7 +31,11 @@ The way the articles are chronologically labeled vary. For articles up to a week
 
 **7: Flexibility and efficiency of use**
 
+There is no search bar to search for topics that interests the user. There is also no further breakdown of topics underneath the four main menu headers, which deters efficiency since the user is not able to find the content he/she wants quickly and efficiently.
+
 **8: Aesthetic and minimalist design**
+
+
 
 
 **9: Help users recognize, diagnose, and recover from errors**
