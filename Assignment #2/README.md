@@ -40,12 +40,13 @@ UT #2, best version
 https://youtu.be/0zwehfARAIU
 
 UT #1 pt 1
-https://youtu.be/w2jrILKBMvU
-UT #1 part 2
 https://youtu.be/8Ma6mpozFg8
 
+UT #1 part 2
+https://youtu.be/w2jrILKBMvU
 
 
-**What I learned/Future Improvements**
+
+**What I Learned/Possible Improvements**
 
 I had to two UT with two users, because the first UT did not go smoothly. Although the user's feedback was very good and the UT overall was very engaging and rewarding, I did not test the survey beforehand to make sure that everything would go smoothly. I realized that there were errors on the form, and some questions were confusing to the user. So I went ahead and did a second UT with another user and revised some of the instructions on the tasks. Both users were very outspoken with their opinions, and surprisingly, many of their opinions overlapped. While the users were performing the tasks, I became aware of more visual aspects of the website that can be improved, such as color coordination and icon placement. It was also interesting to see how the users approached the first and third task quite differently. To improve my UT in the future, I would invest more time on running trials on my survey to make sure everything is working correctly. Second, I would aim to get users that are closest to my target audience. For this UT, my first user was further from my target audience than my second user. If i had more time,  I would love to have more user input so that I can best assess which tasks are meaningful to perform and observe more UI/UX points about the website.
