@@ -1,6 +1,7 @@
 **Introduction/Methodlogy**
 
-For my UT, I decided to test the usability of the [Allkpop website](www.allkpop.com)Allkpop is an online Kpop news/media community where people can find the newest K-pop related articles and content. Along with an ecommerce site and open forum, this site not only allows Kpop fans to find news but also engage in other fan-related activities to support their artists.
+For my UT, I decided to test the usability of the [Allkpop website](www.allkpop.com).
+Allkpop is an online Kpop news/media community where people can find the newest K-pop related articles and content. Along with an ecommerce site and open forum, this site not only allows Kpop fans to find news but also engage in other fan-related activities to support their artists.
 
 I recorded the screen and the participants' voice using QuickTime player. The session captured the participant's actions as she went through the tasks on the websites as well as her thoughts while performing the tasks.
 
