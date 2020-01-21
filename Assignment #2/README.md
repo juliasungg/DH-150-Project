@@ -1,3 +1,22 @@
+Introduction/Methodlogy
+
+For my UT, I decided to test the usability of the [Allkpop website](www.allkpop.com)Allkpop is an online Kpop news/media community where people can find the newest K-pop related articles and content. Along with an ecommerce site and open forum, this site not only allows Kpop fans to find news but also engage in other fan-related activities to support their artists.
+
+I recorded the screen and the participants' voice using QuickTime player. The session captured the participant's actions as she went through the tasks on the websites as well as her thoughts while performing the tasks.
+
+I gathered users around me who were most similar to the target audience, the Kpop community. Each session lasted approximately 15 minutes. During the session, I, the moderator, guided the user through the questionaire and asked them to perform three tasks that tackled some of the usability issues I found in my heuristic evaluation. Upon finishing the tasks, I asked the users to fill out some questions regarding the tasks on a scale, such as how likely they disagree/agree with a statement regarding the task. Throughout the session, I encouraged the users to speak aloud, and asked clarifying questions.
+
+
+Some of the main usability issues I found in my heuristic evaluation was
+1. The confusion with the menu tabs and the overall navigation of the website. I found it difficult to find specific content that I was interested in. For example, if I was interetsed in a specific artist, I would not be able to find their content easily.
+2. Error prevention in the comment section.
+3. The lack of synchronization between the affiliated ecommerce site and main website. I didn't see the point of having the shopping cart icon on the main website if it only redirects me to the eccomerce site to view my shopping items.
+
+The UT took part in a quiet space in my apartment. I had trouble downloading software that recorded both the screen and the user, so I opted to only screen record and have the voice-over in the background. (which was acceptable for this assignment). Since this is a pilot test, I conducted two trials until the UT session was able to run smoothly.
+
+
+
+
 
 One paragraph explaining the purpose of UT, how & what you want to test especially based on the findings of heuristic evaluation. 
 
