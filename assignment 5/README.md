@@ -47,7 +47,7 @@ I also asked questions regarding the user's behavior.
 
 -  How often do you log on to the internet to engage in the community?
 -  What are some of the main reasons you go online?
--  Do you experience any inconveniences whileUnknown 0:01
+-  Do you experience any inconveniences while browsing this website?
 
 
 ## Field Notes (refer to file attached in folder)
