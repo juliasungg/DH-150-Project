@@ -1,6 +1,6 @@
 ## Overview:
 
-The project will allow users to easily browse for news relating to Korean entertainment, including music, dramas, and celebrity news. Those who follow Korean entertainment and culture has been steadily increasing due to the global expansio of Korean culture through movies (Parasite) and music. (BTS, PSY). While my project will focus on appealing to the entire community, it will focus on easy navigation of Korean entertainment news for those who are new to the culture. In this assignment, I will observe the user while she conducts a few searches on the web about her favorite celebrity.
+The project will allow users to easily browse for news relating to Korean entertainment, including music, dramas, and celebrity news. Those who follow Korean entertainment and culture has been steadily increasing due to the global expansio of Korean culture through movies (Parasite) and music. (BTS, PSY). While my project will focus on appealing to the entire community, it will focus on easy navigation of Korean entertainment news for those who are new to the culture. In this assignment, I will observe the user on her freetime, when she spends a lot of time on her phone browsing the web.
 
 ## Resources
 In order for the user to succesfully complete the activity, she would need access to a phone or laptop, and reliable internet. 
@@ -14,44 +14,35 @@ The existing solutions hardly provide personalized and curated content. While Yo
 
 Although Korean culture has a wide demographic appeal, the main target audience for this project would be young students ranging from 13-23 years old who are immersed daily in online content and on-top of the trendiest news. It would be best to interview a group of users who are very fond of Korean culture and entertainment, ranging from older fans to newer fans.
 
+## Background of my research subject
+
+Cydney is a fourth year at UCLA. She has recently gotten into Korean culture and media, due to her friends' influence and the overall globalization of Korean media. While she does listen to Korean music on a daily basis, she has a stronger attraction to Korean films in particular. She is also extremely interested in Korean cuisine and traditions. She prefers Youtube/television since the content is more personalized. However, she agrees that it is easier to surf the web throughout the day as a busy student at UCLA.
+
+## Collecting the Data
+
+I sat down with Cydney at her apartment during her free time on the weekend. 
+
+I will ask the user how she usually receives her Korean entertainment+ culture news and I will engage in a natural conversations with the user about the topic, and follow her usual routine of getting Korean entertainment and culture news. The observations will mostly be based off of which mediums she uses, how she navigates the page and conducts the searches.
+
+I will collect the data by recording her voice and transcribing it after. During the interview, I will have a pen and notebook on hand, to take notes of her behavior and any issues she points out or comments she makes. 
 
 
-## Context 
+## Observations/Interesting Insights 
 
-Users would be conducting various searches in 
+It was interesting to see how the user had to use two different mediums throughout the tasks.
+To browse KPOP or general celebrity news, she would use a news website like ALLKPOP and Soompi. However, when she looked for Korean films/drama news, she would utilize a blog like Dramabeans. She made a comment about how it was rather difficult to find the exact content she wanted on general news websites like ALLKPOp and Soompi due to the disorganization of the content. 
 
-The users would do the activity 
-
-
-
-What would the users do to complete that activity? 
-
-Step03: Pick an observation method (or a combination of methods) 
-Interview with direct / Passive / Participatory observation* (recommended)
-Or something you learned on your own (refer the field guideline by IDEO)
-
-Step04: Plan to get into the context & write down the observation/ interview guide 
-Korean Karaoke!
+She continuously pointed out how the content across major news websites are often disorganized, making it difficult to find personalized content. She also didn't see the point of making an account on the website, since it didn't really change how the content was displayed to her. Throughout the day at school, she would prefer having an app opposed to a website, since a mobile app is easier to open up and navigate throughout the day. Because she often logs into the website a few times a day, she also stated that it would be a nice feature to save articles and videos for later.
 
 
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users 
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-In order to collect user data 
-Prepare the interview guide (refer)
 
-Step05: Conduct the research
-Visit the place
-Meet/Observe people/person
-Collect the data
 
-Step06: Organize/Documentation
-In github (sub)repository assignment5, create one document (either README.md or .html)
-Describe your project design challenge + target user (step1+2)
-Describe your research methods and plan (step3)
-Provide a link to your interview/observation guide (step4) 
-Digitize your notes (scan/photo) and upload your data to github
-Provide a link to your representative data file(s) (step5)
-Provide a link to the transcript your interview (or meaningful dialogues/ talk-alouds during observation) 
-Write a reflection
+
+
+
+
+
+
+
+
 
