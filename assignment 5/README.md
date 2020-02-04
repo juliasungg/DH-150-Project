@@ -26,10 +26,23 @@ I will ask the user how she usually receives her Korean entertainment+ culture n
 
 I will collect the data by recording her voice and transcribing it after. During the interview, I will have a pen and notebook on hand, to take notes of her behavior and any issues she points out or comments she makes. 
 
+## Tasks
+I watched the user perform some common tasks including:
+
+-  Skimming through the main page for the latest updates.
+-  Searching up a specific article about Parasite's nomination at the award ceremony.
+-  Reading about
+
+I also asked questions regarding the user's behavior.
+
+-  How often do you log on to the internet to engage in the community?
+-  What are some of the main reasons you go online?
+-  Do you experience any inconveniences while browsing?
 
 ## Observations/Interesting Insights 
 
-It was interesting to see how the user had to use two different mediums throughout the tasks.
+It was interesting to see how the user had to use two different mediums throughout the tasks. Since she uses the platform almost every day, it makes the most sense to her for the main page to be automatically chronologically ordered.
+
 To browse KPOP or general celebrity news, she would use a news website like ALLKPOP and Soompi. However, when she looked for Korean films/drama news, she would utilize a blog like Dramabeans. She made a comment about how it was rather difficult to find the exact content she wanted on general news websites like ALLKPOp and Soompi due to the disorganization of the content. 
 
 She continuously pointed out how the content across major news websites are often disorganized, making it difficult to find personalized content. She also didn't see the point of making an account on the website, since it didn't really change how the content was displayed to her. Throughout the day at school, she would prefer having an app opposed to a website, since a mobile app is easier to open up and navigate throughout the day. Because she often logs into the website a few times a day, she also stated that it would be a nice feature to save articles and videos for later.
