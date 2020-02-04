@@ -29,17 +29,28 @@ I will ask the user how she usually receives her Korean entertainment+ culture n
 I will collect the data by recording her voice and transcribing it after. During the interview, I will have a pen and notebook on hand, to take notes of her behavior and any issues she points out or comments she makes. 
 
 ## Tasks
+
+I asked some questions to understand the user a little better: 
+
+- So can you tell me about how you got into Korean culture/entertainment?
+- What are the main reasons for using this website?
+- How often do you check into Korean entertainment?
+
+
 I watched the user perform some common tasks including:
 
 -  Skimming through the main page for the latest updates.
--  Searching up a specific article about Parasite's nomination at the award ceremony.
--  Reading about
+-  Searching up a specific article about Parasite's nomination at the award ceremony. What do you specifically look for in these articles, the heading, the date, the content or the picture?
+-  
 
 I also asked questions regarding the user's behavior.
 
 -  How often do you log on to the internet to engage in the community?
 -  What are some of the main reasons you go online?
 -  Do you experience any inconveniences whileUnknown 0:01
+
+
+## Field Notes (refer to file attached in folder)
 
 
 ## Observations/Interesting Insights 
