@@ -7,9 +7,13 @@ Hi, I am going to ask you a few questions regarding your user experience and beh
 ## Please read the following.
 
 "Thank you for participating!
+
 We're not evaluating you in any way, but we're learning from you about how you look for information online and what works and doesn't work for you. With this, we hope we can make our product better for people like you. There are no right or wrong answers to any of the questions I'm asking in this study - we're simply interested in understanding how you do things online. We will conduct this study mostly as a discussion - I will ask you to show me how you do things using this computer and ask you questions to better understand what you do.
+
 Here's how the session's going to be scheduled. We'll ask you a few general questions about how you search and navigate on a Korean entertainment news page of your choice.Then we'll go through some tasks you have provided for us. While you are working on some tasks, we'd like you to think out aloud, which means you give a running commentary of what's going on in your mind. You can talk about things you like or don't like. Feel free to say anything that comes to your mind; don't worry about offending us since we didn't design this product.
-We will record a little video of you so that I can go back and review things later and make sure we get everything right. We won't use your name in connection with the recordings or the results. The videotapes will only be used internally and never shared anywhere with anyone.
+
+We will record a little voice recording so that I can go back and review things later and make sure we get everything right. We won't use your name in connection with the recordings or the results. The videotapes will only be used internally and never shared anywhere with anyone.
+
 How does all that sound to you? Do you have any questions at this point?"
 
 [Have person sign NDA & turn cell phone off] 
@@ -41,20 +45,28 @@ Do you browse the web on your mobile phone? (if so, have you searched for inform
 3. Design Search background 
 
 So can you tell me about how you got into Korean culture/entertainment?
+
 What are the main reasons for using this website?
+
 How often do you check into Korean entertainment?
 
-
-
-
 How often do you log on to the internet to engage in the community?
+
 What are some of the main reasons you go online?
+
+
 4. User's own searches (35 minutes)
-kimming through the main page for the latest updates.
-Searching up a specific article about Parasite's nomination at the award ceremony. 
+
+Skim through the main page for the latest updates.
+
+Search up a specific article about Parasite's nomination at the award ceremony. 
+
 How do you decide what search keywords to use? (do they use the keyword "Oscar", the movie title etc.)
+
 How much time would you spend on a search like this?
+
 {satisfaction} Are you satisfied with the outcome of the search? What do you specifically look for in these articles, the heading, the date, the content or the picture?
+
 How do you choose which article to click on?
 
 After each search:
