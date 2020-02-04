@@ -1,6 +1,8 @@
 ## Overview:
 
-The project will allow users to easily browse for news relating to Korean entertainment, including music, dramas, and celebrity news. Those who follow Korean entertainment and culture has been steadily increasing due to the global expansio of Korean culture through movies (Parasite) and music. (BTS, PSY). While my project will focus on appealing to the entire community, it will focus on easy navigation of Korean entertainment news for those who are new to the culture. In this assignment, I will observe the user on her freetime, when she spends a lot of time on her phone browsing the web.
+The project will allow users to easily browse for news relating to Korean entertainment, including music, dramas, and celebrity news. Those who follow Korean entertainment and culture has been steadily increasing due to the global expansio of Korean culture through movies (Parasite) and music. (BTS, PSY). I believe that creating a website/app that efficiently includes news updates as well as creative content is a way to satisfy the KPOP/K-culture community's sense of social belonging. 
+
+While my project will focus on appealing to the entire community, I will particularly keep in mind those who are new to the culture and frame my project so that new users can especially benefit from the easy navigation and personalization of Korean entertainment news. In this assignment, I will observe the user on her freetime, when she spends time throughout the day on her phone browsing the web for K-entertainment related news.
 
 ## Resources
 In order for the user to succesfully complete the activity, she would need access to a phone or laptop, and reliable internet. 
