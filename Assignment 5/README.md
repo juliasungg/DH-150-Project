@@ -1,4 +1,4 @@
-# Persona 1
+# Persona 1: Rachel
 
 ## Personal Background
 
@@ -7,7 +7,12 @@
 - Gender
 - Career
 
-## Motivation/Needs
+
+## Her story
+
+
+
+## Motivation/Needs(Questions she will ask)
 - why they would use the app
 - what type of fan are they
 - what would be their main usage for the app
@@ -21,7 +26,7 @@
 
 
 
-# Persona 2
+# Persona 2: Amy
 
 ## Personal Background
 
@@ -29,6 +34,7 @@
 - Life
 - Gender
 - Career
+- Ethnicity
 
 ## Motivation/Needs
 - why they would use the app
@@ -41,7 +47,7 @@
 - new fan, so don't know what they like/dislike.
 
 
-# Persona 3
+# Persona 3: Brandon
 
 ## Personal Background
 
