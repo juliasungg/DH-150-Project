@@ -1,71 +1,12 @@
-# Persona 1: Rachel
+## Scenario 1: Amy Finding the most popular shows and dramas to bring onboard to Netflix. 
+Amy is tasked with a new project at Netflix to research which dramas, movies and shows are most popular. Because Amy is already a fan of Korean community, she has used the platform before. To begin, she looks for content specific to shows, movies and dramas on the homepage. She licks on the “Explore” button and clicks on the ‘TV/Film’ button first. When she is on the page, she wants to look at the most recent news, so she filters by date. The platform will then show the latest news about currently ongoing or soon to be released dramas and movies. In order to read more about the dramas/movie, she clicks on a relevant article. Amy will come across various links in the article, that will direct her to past news about the show that she could have possibly missed. Once she finishes reading the article, she will gauge the community’s opinions through reading the comments underneath the article. She will also post her own opinions, by clicking into the comment bar. The system will prompt a chatbox to remind her that only registered accounts can comment. She will feel unprepared, and proceeds to make an account with the website. She is happy to find that she can proceed to commenting and engaging in forums after she logs in with her newly-made account. Amy finds out that she can also save the article for future viewing! 
 
-## Personal Background
+## Scenario 2: Rachel 
+Rachel is writing a final paper on the rising global recognition of Korean culture through BTS and Parasite. Although Rachel has always been a fan of Korean entertainment, she is behind on the latest news because she is busy working and studying as a student. As a result, she hopes to not only use this platform as a resource for her class but also for her own personal hobby. When she first goes into the app, she will navigate to the search bar in the upper center. She will proceed to type keywords like “BTS” or “Parasite”. However, she doesn’t see a dropdown menu(like Google search engine) where it automatically recommends/autofills search words by popularity. After she searches the word, the app will pull up several articles sorted by relevance. Since she plans on using this app quite frequently, she would prefer to see it sorted chronologically. Another useful feature would be to have keyword tags for each article, that she can click and save. This way, she will instantly see relevant news on the homepage the next time she logs in. 
 
-- Age
-- Life
-- Gender
-- Career
-
-
-## Her story
-
-
-
-## Motivation/Needs(Questions she will ask)
-- why they would use the app
-- what type of fan are they
-- what would be their main usage for the app
-
-
-## Challenges/Frustrations
-- technical illiteracy
-- new fan, so don't know what they like/dislike.
-
-
-
-
-
-# Persona 2: Amy
-
-## Personal Background
-
-- Age
-- Life
-- Gender
-- Career
-- Ethnicity
-
-## Motivation/Needs
-- why they would use the app
-- what type of fan are they
-- what would be their main usage for the app
-
-
-## Challenges/Frustrations
-- technical illiteracy
-- new fan, so don't know what they like/dislike.
-
-
-# Persona 3: Brandon
-
-## Personal Background
-
-- Age
-- Life
-- Gender
-- Career
-
-## Motivation/Needs
-- why they would use the app
-- what type of fan are they
-- what would be their main usage for the app
-
-
-## Challenges/Frustrations
-- technical illiteracy
-- new fan, so don't know what they like/dislike.
-
+## Scenario 3: Brandon 
+The main section Brandon is interested in is music. While he follows many hip hop musicians particularly, his favorite artist is Zico. Brandon would like to stay on top of any latest news relating to the artist’s new album release, such as teaser images, music video teasers or the 
+actual album release. Similar to the case in Rachel’s scenario, Brandon prefers to save ‘Zico’ as a keyword so that the app will automatically include relevant news on the homepage. Brandon proceeds to scroll down the feed to find relevant videos and clips. However, he realized that the app is quite laggy and the feed was too unorganized to identify which articles were actually just videos and clips. Brandon thinks that it will be much easier if all videos were gathered in one tab on the app. Brandon proceeds to click on the forums page, which made him instantly feel unengaged. The forum interface looks boring with its grey and black color scale and uninteractive. There was no social media or feedback (like/dislike) component, that would facilitate interaction. The headers in the forum makes no sense to Brandon, and there is no way to filter/search for a forum. Instead, the only option to navigate the forums interface was either by scrolling all the way down, or moving onto the next page. Brandon was looking forward to seeing more social media elements in the community forum, since he is looking to get more involved in the community. 
 
 
 
