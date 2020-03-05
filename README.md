@@ -88,6 +88,10 @@ The app will provide the Korean entertainment fan community a place to browse fo
 [read more...](https://docs.google.com/document/d/1XAzY-I5JQfdTt34xJxR0bZAOTl2e_Pinry6EuxIeDTk/edit?usp=sharing)
 [link to prototype here]( .. ) 
 
+<img src=”https://github.com/juliasungg/DH-150-Project/blob/master/assignment%208/Screen%20Shot%202020-03-05%20at%2010.17.03%20AM.png?raw=true” height=”300px”> 
+
+
+
 ## Optional evaluation and revision history Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video
