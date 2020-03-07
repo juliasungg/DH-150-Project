@@ -38,11 +38,8 @@ While the user was performing the tasks, I became aware of more visual aspects o
 [read more..](https://github.com/juliasungg/DH-150-Project/tree/master/Assignment%20%232)
 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/0zwehfARAIU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
-
+[![Video](http://img.youtube.com/vi/0zwehfARAIU/0.jpg)](https://www.youtube.com/watch?v=0zwehfARAIU)
 
 
 ## User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
@@ -83,13 +80,11 @@ Amy is tasked with a new project at Netflix to research which dramas, movies and
 
 The purpose of this low fidelity prototype is to illustrate the flow of the three scenarios previously mentioned. My low fidelity prototype shows the navigation of screens and their features that the user would have to navigate through to perform the three scenarios. Low fidelity prototypes are useful for user research to examine how a user would go through these screens, and take note of any barriers and improvements.
 
-<img src=”https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Forum.jpg?raw=true” height=”400px”> 
+![Scenario 1](https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Forum.jpg?raw=true)
 
-<img src=”https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Comment%20on%20an%20article%20and%20share%20an%20article.jpg?raw=true” height=”400px”> 
+![Scenario 2](https://github.com/juliasungg/DH-150 Project/blob/master/Assignment%206/Comment%20on%20an%20article%20and%20share%20an%20article.jpg?raw=true)
 
-<img src=”https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Search%20for%20content%20and%20save%20articles.jpg?raw=true” height=”400px”> 
-
-
+![Scenario 3](https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Search%20for%20content%20and%20save%20articles.jpg?raw=true)
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08) Summary statement and link to or an embedded prototype
@@ -100,7 +95,8 @@ Based off the low fidelity prototype feedback, I used InVision Studio to build a
 
 [link to prototype here]( .. ) 
 
-<img src=”https://github.com/juliasungg/DH-150-Project/blob/master/assignment%208/Screen%20Shot%202020-03-05%20at%2010.17.03%20AM.png?raw=true” height=”300px”> 
+![Hi Prototype](https://github.com/juliasungg/DH-150-Project/blob/master/assignment%208/Screen%20Shot%202020-03-05%20at%2010.17.03%20AM.png?raw=true)
+
 
 
 
