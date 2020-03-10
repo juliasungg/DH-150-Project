@@ -40,7 +40,7 @@ While the user was performing the tasks, I became aware of more visual aspects o
 [![Video](http://img.youtube.com/vi/0zwehfARAIU/0.jpg)](https://www.youtube.com/watch?v=0zwehfARAIU)
 
 
-## User research [contextual inquiry, assignment04]: Summary and link to your assignment folder
+## User research
 
 For user research, I observed my friend, Cydney who fits the description of the main argeted audience, young students ranging from 13-23 years old who follow Korean entertainment news. I observed Cydney while she performed tasks such as browsing the main home page, searching for a specific keyword and attempting to comment. Throughout the process, I encouraged her to speak aloud and asked her clarifying questions to understand her actions better.
 
@@ -53,7 +53,7 @@ She continuously pointed out how the content across major news websites are ofte
 
 
 
-## UX storytelling [persona+scenario, assignment05] Summary and link to your assignment folder
+## UX storytelling 
 
 I created 3 personas, with each persona performing a different task with a different scenario. All three personas must identify with the target audience of my app. The personas will focus on performing 3 main tasks:
    1. Comment on a post.
@@ -81,7 +81,7 @@ In class, we practiced with html coding. We learned how to audit web pages using
 
 For assignment 8, we first created a wireframe of the screens. Then we added on the wireflow/interactions between the buttons.
 
-## Low-fidelity prototype (wireflow, assignment07) Summary and link to the sketches (may contains the multiple versions and evaluation history)
+## Low-fidelity prototype 
 
 The purpose of this low fidelity prototype is to illustrate the flow of the three scenarios previously mentioned. My low fidelity prototype shows the navigation of screens and their features that the user would have to navigate through to perform the three scenarios. Low fidelity prototypes are useful for user research to examine how a user would go through these screens, and take note of any barriers and improvements.
 
@@ -92,7 +92,7 @@ The purpose of this low fidelity prototype is to illustrate the flow of the thre
 ![Scenario 3](https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Search%20for%20content%20and%20save%20articles.jpg?raw=true)
 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08) Summary statement and link to or an embedded prototype
+## High-fidelity prototype
 
 Based off the low fidelity prototype feedback, I used InVision Studio to build a high fidelity prototype with the screens, components and interactions. Some important functionalities of the app should include search, comment, share and bookmark.  To personalize the app for the user, I created a user profile section that allows users to bookmark content and engage in forums. To begin the prototype, I made a dummy screen with my choice of color and base components (such as the iphone status bar, menu bar etc) that I can easily duplicate and alter by adding new layers and components. While making this prototype, I focused on making it as simple as possible, since the user already has to navigate through a lot of information.
 
@@ -106,6 +106,7 @@ Based off the low fidelity prototype feedback, I used InVision Studio to build a
 
 
 ## Optional evaluation and revision history Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
 
 ## Pitch video
 
