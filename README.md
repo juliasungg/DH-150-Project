@@ -9,13 +9,11 @@ While my project will focus on appealing to the entire community, I will particu
 
 ## Clear design statement: 
 
-What is the issue and Why do you think it is important to resolve that issue by your project?
-
 The main issue is the lack of a well organized and easily navigable app for the korean entertainment community. From my heuristic evaluation and usability testing, I saw that the search bar was inefficient because it did not recommend any specific searches, which caused unrelated articles to pop up. It is important to resolve this issue so that users can easily search for content that they are interested in, for example an artist of interest. Another issue 
 
 ## Competitor analysis [assignment01 & 02]: Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
 
-For the heuristic evaluation, I analyzed two platforms, [Allkpop](https://www.allkpop.com) and [Koreaboo](https://www.koreaboo.com/). Each platform only has a website, and no app. Koreaboo's platform lacks personalization features and overall content and direction. There is no search bar. There’s no indication of which news articles are most popular, or most recent. In comparison, Allkpop has some personalized features through the user account. There are opportunities for user interaction, and the landing page seems like it has clear direction and very user-friendly. The comment section could be more intuitive and direct is if they emphasized logging in before commenting,  instead of having it in small font in the bottom corner.
+For the heuristic evaluation, I analyzed two platforms, [Allkpop](https://www.allkpop.com) and [Koreaboo](https://www.koreaboo.com/). Each platform only has a website, and no app. Koreaboo's platform lacks personalization features and overall content and direction. There is no search bar. There’s no indication of which news articles are most popular, or most recent. In comparison, Allkpop has some personalized features through the user account. There are opportunities for user interaction, and the landing page seems like it has clear direction and very user-friendly. The comment section could be more intuitive and direct is if they emphasized logging in before commenting, instead of having it in small font in the bottom corner.
 
 [read more..](https://github.com/juliasungg/DH-150-Project/tree/master/Assignment%20%231)
 
