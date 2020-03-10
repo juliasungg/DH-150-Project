@@ -52,6 +52,7 @@ She continuously pointed out how the content across major news websites are ofte
 
 
 
+
 ## UX storytelling [persona+scenario, assignment05] Summary and link to your assignment folder
 
 I created 3 personas, with each persona performing a different task with a different scenario. All three personas must identify with the target audience of my app. The personas will focus on performing 3 main tasks:
@@ -72,7 +73,13 @@ Amy is tasked with a new project at Netflix to research which dramas, movies and
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
-[#7,8 
+In class, we practiced with html coding. We learned how to audit web pages using the Inspect--> Audit link. We were able to test to see if the color combinations we choosed passed the color assessibility test with high scores.
+
+[read more...] (https://github.com/juliasungg/DH-150-Project/tree/master/Assignment%207)
+
+![Hi Prototype](https://raw.githubusercontent.com/juliasungg/DH-150-Project/master/Assignment%207/audit_julia.png)
+
+For assignment 8, we first created a wireframe of the screens. Then we added on the wireflow/interactions between the buttons.
 
 ## Low-fidelity prototype (wireflow, assignment07) Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
