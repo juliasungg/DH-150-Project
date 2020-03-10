@@ -75,9 +75,9 @@ Amy is tasked with a new project at Netflix to research which dramas, movies and
 
 In class, we practiced with html coding. We learned how to audit web pages using the Inspect--> Audit link. We were able to test to see if the color combinations we choosed passed the color assessibility test with high scores.
 
-[read more...] (https://github.com/juliasungg/DH-150-Project/tree/master/Assignment%207)
+[read more...](https://github.com/juliasungg/DH-150-Project/tree/master/Assignment%207)
 
-![Hi Prototype](https://raw.githubusercontent.com/juliasungg/DH-150-Project/master/Assignment%207/audit_julia.png)
+![Low Prototype](https://raw.githubusercontent.com/juliasungg/DH-150-Project/master/Assignment%207/audit_julia.png)
 
 For assignment 8, we first created a wireframe of the screens. Then we added on the wireflow/interactions between the buttons.
 
@@ -87,7 +87,7 @@ The purpose of this low fidelity prototype is to illustrate the flow of the thre
 
 ![Scenario 1](https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Forum.jpg?raw=true)
 
-![Scenario 2](https://github.com/juliasungg/DH-150 Project/blob/master/Assignment%206/Comment%20on%20an%20article%20and%20share%20an%20article.jpg?raw=true)
+![Scenario 2](https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Comment%20on%20an%20article%20and%20share%20an%20article.jpg?raw=true)
 
 ![Scenario 3](https://github.com/juliasungg/DH-150-Project/blob/master/Assignment%206/Search%20for%20content%20and%20save%20articles.jpg?raw=true)
 
@@ -109,9 +109,7 @@ Based off the low fidelity prototype feedback, I used InVision Studio to build a
 
 ## Pitch video
 
-<figure class="video_container">
-   <iframe src=" " frameborder="0" allowfullscreen="true" >
-     </figure >
+[![Video](http://img.youtube.com/vi/V4aOKCZibng/0.jpg)](https://www.youtube.com/watch?v=V4aOKCZibng)
      
 
 ## Conclusion: what did you learn throughout the process?
