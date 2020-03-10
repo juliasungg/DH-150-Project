@@ -98,7 +98,7 @@ Based off the low fidelity prototype feedback, I used InVision Studio to build a
 
 [read more...](https://docs.google.com/document/d/1XAzY-I5JQfdTt34xJxR0bZAOTl2e_Pinry6EuxIeDTk/edit?usp=sharing)
 
-[link to prototype here]( .. ) 
+[link to prototype here](https://julia536810.invisionapp.com/prototype/ck7lgtvwq0020p201f0f3ydv9/play) 
 
 ![Hi Prototype](https://github.com/juliasungg/DH-150-Project/blob/master/assignment%208/Screen%20Shot%202020-03-05%20at%2010.17.03%20AM.png?raw=true)
 
